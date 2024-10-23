@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+From the root folder, run:
+1. npx prisma db pull
+2. npx prisma generate
+
 
 First, run the development server:
 
